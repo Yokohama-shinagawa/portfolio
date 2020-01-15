@@ -1,0 +1,84 @@
+.page1{
+    background-image: url("kenta.jpg");
+    background-size: cover;
+    height:100vh;
+    width:100%;
+}
+.top-text{
+    padding-top:50px;
+    margin:0px 50px 0 0;
+    text-align: left;
+    width:430px;
+    float:right;
+    color:white;
+}
+.top-h1{
+    margin-bottom:50px;
+}
+.top-text h1{
+    margin:10px 0;
+}
+.top-text h2{
+    margin:10px 0px;
+}
+.direction{
+    font-size: 30px;
+    margin-top: 30px;
+}
+.direction i{
+    margin-right:15px;
+}
+.page2{
+    padding:60px;
+    display:flex;
+    justify-content: space-around;
+}
+.page2-list{
+    text-align: left;
+    width: 400px;
+}
+.page2 p{
+    padding:2px 5px;
+    margin:7px 0;
+    background-color: rgba(0,255,255,0.2);
+    border-radius: 4px;
+    display: inline-block;
+}
+.page3{
+    display:flex;
+    text-align:center;
+}
+.page3 p{
+    padding-bottom: 20px;
+}
+.page3 img{
+    width:80%;
+    border-radius: 10px;
+}
+.page3 img:hover{
+    opacity: 0.6;
+}
+.page3-left{
+    background-color: beige;
+    width:50%;
+}
+.page3-right{
+    background-color:#99CCFF;
+    width:50%;
+}
+.page3 h3{
+    margin:20px;
+}
+.page3 h1{
+    margin:20px;
+}
+.page4{
+    text-align: center;
+    background-color:black;
+    padding: 15px 0;
+    color: white;
+}
+
+
+
+
